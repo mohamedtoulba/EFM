@@ -1,0 +1,22 @@
+{
+  "initialVoiture": [
+    {
+      "id": 1,
+      "marque": "RONO",
+      "model": "2016",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "marque": "VOLVO",
+      "model": "2020",
+      "color": "blue"
+    },
+    {
+      "id": 3,
+      "marque": "FORDE",
+      "model": "2017",
+      "color": "green"
+    }
+  ]
+}

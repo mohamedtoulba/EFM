@@ -1,0 +1,52 @@
+{
+  "initialVoiture": [
+    {
+      "marque": "ZZ",
+      "model": "ZZ",
+      "color": "ZZ",
+      "id": 4
+    },
+    {
+      "marque": "gege",
+      "model": "gegege",
+      "color": "gegegeg",
+      "id": 6
+    },
+    {
+      "marque": "kkk",
+      "model": "hh",
+      "color": "mmm",
+      "id": 7
+    },
+    {
+      "marque": "ppp",
+      "model": "ppp",
+      "color": "ppp",
+      "id": 8
+    },
+    {
+      "marque": "oo",
+      "model": "kk",
+      "color": "kk",
+      "id": 9
+    },
+    {
+      "marque": "jjj",
+      "model": "jjj",
+      "color": "nnn",
+      "id": 10
+    },
+    {
+      "marque": "kk",
+      "model": "kk",
+      "color": "kk",
+      "id": 11
+    },
+    {
+      "marque": "kkk",
+      "model": "kkk",
+      "color": "kk",
+      "id": 12
+    }
+  ]
+}
